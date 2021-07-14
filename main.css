@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(255, 248, 255);
+}
+.title {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:lighter; 
+}
+
+.box {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} 
